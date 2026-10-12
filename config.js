@@ -1,4 +1,4 @@
-window.addEventListener('load', function() {
+document.addEventListener('DOMContentLoaded', function() {
     // Altera o título da aba/página
     document.title = "500 Internal Server Error";
 
